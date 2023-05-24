@@ -45,6 +45,35 @@ const Partners = () => {
 
           <p className="w-1/3">Partner with Gratis Digital and unlock the power of targeted leads to propel your business to new heights. Amplify your digital marketing success and stay ahead of the competition.</p>
         </div>
+
+        <div className="grid grid-cols-3 gap-x-10 mt-14">
+          <div className="space-y-3">
+            <p className="text-7xl  text-gray-500">01</p>
+            <p className="text-gray-400 uppercase text-xl ">who we are</p>
+            <p className="leading-9 text-sm">We are a team of digital practitioners and business development professionals, who love partnering with smart and determined businesses, to help them achieve online success.</p>
+          </div>
+          <div className="space-y-3">
+            <p className="text-7xl  text-gray-500">02</p>
+            <p className="text-gray-400 uppercase text-xl ">what we do</p>
+            <p className="leading-9 text-sm">We bring businesses to the limelight by employing our skills and practical knowledge of the world of affiliate marketing, e-commerce marketing, lead generation, and affiliate marketing management, to give our esteemed clients their desired goal and turning their user into loyal customers.</p>
+          </div>
+          <div className="space-y-3">
+            <p className="text-7xl  text-gray-500">03</p>
+            <p className="text-gray-400 uppercase text-xl ">why we do it</p>
+            <p className="leading-9 text-sm">We are a team of digital practitioners and business development professionals, who love partnering with smart and determined businesses, to help them achieve online success.</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="py-10">
+        <h2 className="text-black text-center text-4xl font-semibold leading-[3.3rem]">
+          Empowering You to <br /> Thrive in the Competitive <br /> World of Digital Marketing
+        </h2>
+        <p className="text-sm text-black text-center mt-5 leading-7 ">In today's highly competitive digital landscape, lead generation is a game-changer. With <br /> Gratis Digital's expert lead generation strategies, you can transform your business and <br /> unlock its full potential.</p>
+      </div>
+
+      <div className="flex justify-center">
+        <button className="rounded-full px-3 py-2 bg-red-400 uppercase font-semibold w-[300px] text-3xl">Get Started</button>
       </div>
 
     </div>
