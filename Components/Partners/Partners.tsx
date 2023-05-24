@@ -2,7 +2,6 @@ import Image from "next/image";
 import Button from "../Button";
 import Card from "../Card";
 
-
 const Partners = () => {
 
   return (
@@ -25,6 +24,8 @@ const Partners = () => {
           <p className="text-gray-600 text-sm text-center leading-6">We are committed to providing results that go beyond what you envisioned, enabling your business to <br /> flourish and succeed in the digital realm.</p>
         </div>
       </div>
+
+
 
       <div className="flex space-x-4 overflow-x-hidden w-full flex-nowrap px-10 mt-14 py-3">
         <Card />
